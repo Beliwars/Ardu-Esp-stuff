@@ -20,8 +20,8 @@
 #include <ArduinoJson.h>
 
 // WiFi parameters
-#define WLAN_SSID       "ROBRIN01"
-#define WLAN_PASS       "s1yexyuAzgeu7ioH69"
+#define WLAN_SSID       "ssid"
+#define WLAN_PASS       "password"
  
 // Adafruit IO
 //#define AIO_SERVER      "io.adafruit.com"
